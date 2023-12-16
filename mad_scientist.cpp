@@ -3,6 +3,8 @@
 #include <cstdio>
 using namespace std;
 
+// problem: http://www.usaco.org/index.php?page=viewproblem2&cpid=1012
+
 int main()
 {
     freopen("breedflip.in", "r", stdin);
