@@ -4,10 +4,13 @@
 #include <set>
 using namespace std;
 
+// problem: where am i?
+// http://www.usaco.org/index.php?page=viewproblem2&cpid=964
+
 int main() {
     freopen("whereami.in", "r", stdin);
-    freopen("whereami.out", "w", stdout);
- 
+	freopen("whereami.out", "w", stdout);
+
     int n;
     vector<string> stringSplitted;
     string colors;
