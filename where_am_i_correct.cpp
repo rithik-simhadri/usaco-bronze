@@ -9,7 +9,7 @@ using namespace std;
 
 int main() {
     freopen("whereami.in", "r", stdin);
-	freopen("whereami.out", "w", stdout);
+    freopen("whereami.out", "w", stdout);
 
     int n;
     vector<string> stringSplitted;
