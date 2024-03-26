@@ -6,7 +6,7 @@ using namespace std;
 
 int main(void) {
     freopen("herding.in", "r", stdin);
-	freopen("herding.out", "w", stdout);
+    freopen("herding.out", "w", stdout);
 
     vector<int> pos(3);
     int g1, g2;
