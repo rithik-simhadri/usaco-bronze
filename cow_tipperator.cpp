@@ -38,7 +38,7 @@ using namespace std;
 int main() 
 {
     freopen("cowtip.in", "r", stdin);
-	freopen("cowtip.out", "w", stdout);
+    freopen("cowtip.out", "w", stdout);
 
     int n; 
     cin >> n;
