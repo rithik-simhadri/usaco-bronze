@@ -3,6 +3,8 @@
 #include <string>
 using namespace std;
 
+// problem-link: https://usaco.org/index.php?page=viewproblem2&cpid=526
+
 int main() {
     ifstream fin ("censor.in");
     ofstream fout ("censor.out");
