@@ -4,6 +4,8 @@
 #include <algorithm>
 using namespace std;
 
+// problem link: https://usaco.org/index.php?page=viewproblem2&cpid=639
+
 int main() {
     ifstream fin ("diamond.in");
     ofstream fout ("diamond.out");
