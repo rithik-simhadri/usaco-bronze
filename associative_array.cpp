@@ -3,6 +3,8 @@
 using namespace std;
 using ll = long long;
 
+// problem-link: https://judge.yosupo.jp/problem/associative_array
+
 int main() {
     ll Q; cin >> Q;
     map<ll, ll> a;
