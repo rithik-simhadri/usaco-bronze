@@ -12,7 +12,7 @@ vector<string> zodiac = {
 };
 
 string find_animal (int year) {
-    int y = 2021, anim = 0;
+    int y = 0, anim = 0;
     
     while (y < year) { 
         y++; anim++;
@@ -31,7 +31,7 @@ int main() {
     int N; cin >> N;
 
     map<string, int> date_born;
-    date_born["Bessie"] = 2021;
+    date_born["Bessie"] = 0;
     string cowa, relation, zod, cowb, uselessa, uselessb, uselessc, uselessd;
     
     for (int i = 0; i < N; i++) {
