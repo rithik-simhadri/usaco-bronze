@@ -3,6 +3,8 @@
 #include <vector>
 using namespace std;
 
+// problem-link: https://usaco.org/index.php?page=viewproblem2&cpid=736
+
 int main() {
 	ifstream fin ("cownomics.in");
     ofstream fout ("cownomics.out");
